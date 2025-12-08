@@ -1,0 +1,47 @@
+!1689;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full Java SE, not just the JRE, installed.\\nJava is available from https://www.oracle.com/java/technologies .\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SKU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!238;g
+%\011CloudStorage.java
+%\011CloudStorageList.java
+%\011CloudStoragePart3.java
+%\011DedicatedCloud.java
+%\011InvalidCategoryException.java
+%\011MonthlyCostComparator.java
+%\011PersonalCloud.java
+%\011PublicCloud.java
+%\011SharedCloud.java
+!238;f
+%\011CloudStorage.java
+%\011CloudStorageList.java
+%\011CloudStoragePart3.java
+%\011DedicatedCloud.java
+%\011InvalidCategoryException.java
+%\011MonthlyCostComparator.java
+%\011PersonalCloud.java
+%\011PublicCloud.java
+%\011SharedCloud.java
+!240;l
+%\011CloudStorageListTest.java
+%\011CloudStoragePart2Test.java
+%\011CloudStoragePart3Test.java
+%\011DedicatedCloudTest.java
+%\011MonthlyCostComparatorTest.java
+%\011PersonalCloudTest.java
+%\011PublicCloudTest.java
+%\011SharedCloudTest.java
+!1318;t
+jgrJUnit0xr	%\011MonthlyCostComparatorTest.java	1763768392893:P%\011MonthlyCostComparator.java	%\011MonthlyCostComparator.java	1763768392893:P%\011MonthlyCostComparatorTest.java	%\011CloudStoragePart2Test.java	1763766310492:P%\011CloudStoragePart2.java	%\011CloudStorageList.java	1764116617054:P%\011CloudStorageListTest.java	%\011CloudStoragePart3Test.java	1764120411554:P%\011CloudStoragePart3.java	%\011CloudStorageListTest.java	1764116617054:P%\011CloudStorageList.java	%\011CloudStoragePart3.java	1764120411554:P%\011CloudStoragePart3Test.java	
+jgrCheckstyle0xr	%\011MonthlyCostComparatorTest.java	1764120228978:P	%\011InvalidCategoryException.java	1764120228978:P	%\011DedicatedCloud.java	1764120228978:P	%\011CloudStorageList.java	1764120228978:P	%\011PersonalCloud.java	1764120228978:P	%\011PublicCloud.java	1764120228978:P	%\011CloudStorage.java	1764120228978:P	%\011PublicCloudTest.java	1764120228978:P	%\011DedicatedCloudTest.java	1764120228978:P	%\011MonthlyCostComparator.java	1764120228978:P	%\011SharedCloud.java	1764120228978:P	%\011CloudStoragePart2Test.java	1764120228978:P	%\011CloudStoragePart3Test.java	1764120410065:P	%\011SharedCloudTest.java	1764120228978:P	%\011PersonalCloudTest.java	1764120228978:P	%\011CloudStorageListTest.java	1764120228978:P	%\011CloudStoragePart3.java	1764120228978:P	
