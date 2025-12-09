@@ -10,7 +10,6 @@ This module extends previous ellipsoid and list-based modeling by introducing:
 - Statistical utilities using custom classes (`Temperatures`)
 - Iterative numerical summaries and formatted reporting
 
-These programs showcase how object-oriented domain models evolve into **interactive systems** with user workflows, persistent lists, and extensibility.
 
 ---
 
@@ -77,7 +76,6 @@ These programs showcase how object-oriented domain models evolve into **interact
   - Summary statistics using `DecimalFormat`
   - Multi-line toString rendering for readable inspection
 
-These skills reflect **real-world application structure** — domain models + list management + persistence + UI interaction.
 
 ---
 

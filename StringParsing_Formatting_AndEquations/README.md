@@ -10,7 +10,6 @@ This folder contains Java programs demonstrating intermediate concepts including
 - Inspecting numeric results by counting characters around the decimal point
 - Validating input before extracting substrings
 
-These exercises represent meaningful real-world skills in data parsing, numeric analysis, and formatted output handling.
 
 ---
 

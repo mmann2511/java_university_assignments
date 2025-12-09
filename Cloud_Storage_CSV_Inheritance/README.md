@@ -1,7 +1,7 @@
 # Cloud Storage Inheritance, Exception Handling, and Sorted Analytics (TDD)
 
 ## Overview
-This module demonstrates a realistic **enterprise-style inheritance hierarchy** and data aggregation pipeline for a cloud-storage billing domain.  
+This module demonstrates a **enterprise-style inheritance hierarchy** and data aggregation pipeline for a cloud-storage billing domain.  
 It includes:
 
 - An abstract superclass (`CloudStorage`)
@@ -14,7 +14,6 @@ It includes:
   - **custom ordering (`Comparator`)**
 - **Full JUnit validation** of domain behavior, aggregation, file parsing, exception capture, and CLI behavior
 
-This module models how **real usage-based cloud billing systems** ingest, sanitize, and report telemetry.
 
 ---
 
@@ -97,7 +96,7 @@ The ingestion pipeline must:
    - `NumberFormatException`
    - `NoSuchElementException`
 
-All exceptions are **quarantined instead of terminating parsing**, exactly like real billing systems that must ingest mixed-quality telemetry.
+All exceptions are **quarantined instead of terminating parsing**
 
 ---
 

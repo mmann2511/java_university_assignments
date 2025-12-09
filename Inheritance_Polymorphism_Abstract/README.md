@@ -100,7 +100,6 @@ System.out.println("Total: " + myItems.calculateTotal(2.0));
   - tax + shipping (inside `calculateCost()`)
   - optional **surcharge** added per item (via `ItemsList.calculateTotal()`)
 
-This is **clean polymorphism with layered cost rules**, not conditional hacks.
 
 ---
 

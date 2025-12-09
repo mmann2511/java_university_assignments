@@ -10,8 +10,6 @@ This folder contains introductory Java programs demonstrating object-oriented so
 - String formatting and computation methods
 - Driver programs that instantiate and interact with objects
 
-These exercises are part of Auburn University’s COMP 1210 course and illustrate foundational principles of Java OOP.
-
 ---
 
 ## Contents
@@ -36,7 +34,6 @@ These exercises are part of Auburn University’s COMP 1210 course and illustrat
 - Computing derived values (volume, surface area)
 - Using **DecimalFormat** for readable numeric output
 
-This module shows how Java programs evolve from simple procedural scripts into **data models** that represent real-world entities.
 
 ---
 

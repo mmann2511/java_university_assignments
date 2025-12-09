@@ -45,12 +45,6 @@ public static int intDivide(int numIn, int denomIn) {
 - Returns `0` instead of throwing, which protects caller logic
 - Predictable behavior during aggregation workflows
 
-This pattern is realistic in:
-
-- data cleansing
-- billing calculations
-- statistical merging
-- numeric pre-processing
 
 ## 2. Decimal Division With Explicit Validation
 

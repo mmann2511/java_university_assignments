@@ -61,7 +61,6 @@ This module introduces advanced Java object-oriented development with:
 - Precision numeric assertion using tolerances
 - Reset behavior for static counters
 
-This module reflects **real-world engineering** where software correctness is verified by automated testing.
 
 ---
 

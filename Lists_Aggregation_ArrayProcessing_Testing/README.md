@@ -10,7 +10,7 @@ This module demonstrates enterprise-style list aggregation and numeric processin
 - reverse-formatting and array slicing using integer arrays (`Scores`)
 - rigorous validation using JUnit across all public behaviors
 
-This is a realistic model of how domain lists are managed inside financial systems, simulations, dashboards, and manufacturing analytics.
+
 
 ---
 
@@ -73,7 +73,6 @@ The code demonstrates **test-driven development** with:
 - precision tolerances for geometric computation
 - string-format testing for list summaries
 
-This reflects professional correctness guarantees, not just academic examples.
 
 ---
 

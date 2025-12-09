@@ -9,8 +9,6 @@ This module explores object-oriented domain development in Java using:
 - Numeric tolerance logic for floating-point accuracy
 - Comprehensive automated testing using JUnit
 
-These examples show how domain objects evolve into sortable and testable entities — a core enterprise skill used in financial systems, UI sorting, and collections logic.
-
 ---
 
 ## Contents
@@ -80,7 +78,6 @@ Each class includes a full automated test suite validating:
 - floating point computation accuracy
 - overloaded methods and state mutation
 
-This demonstrates **test-driven correctness**, a critical engineering skill.
 
 ---
 
